@@ -1,0 +1,12 @@
+RAG stands for Retrieval Augmented Generation.
+
+RAG combines information retrieval with a Large Language Model (LLM).
+The system first retrieves relevant information from a knowledge source.
+The retrieved information is then provided to the LLM as context.
+
+RAG is useful for answering questions using company documents,
+technical documentation, policies, manuals, and other private data.
+
+The main steps in a RAG system are document ingestion,
+chunking, embedding generation, vector storage, retrieval,
+and response generation.
